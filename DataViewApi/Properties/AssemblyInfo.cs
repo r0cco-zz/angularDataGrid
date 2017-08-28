@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("angularDataGrid")]
+[assembly: AssemblyTitle("DataViewApi")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("angularDataGrid")]
+[assembly: AssemblyProduct("DataViewApi")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("166cc14b-dffc-46a9-8ac0-816c1e451b04")]
+[assembly: Guid("6973dc34-f253-494a-91fa-87e078251c81")]
 
 // Version information for an assembly consists of the following four values:
 //
